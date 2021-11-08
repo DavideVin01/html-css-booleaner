@@ -69,3 +69,9 @@ figcaption{
 .highlighted-text{
     background-color: yellow;
 }
+
+#unordered-list{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
