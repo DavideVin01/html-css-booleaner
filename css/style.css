@@ -1,10 +1,10 @@
+/* Presets */
 body{
     margin: 0;
     padding: 0;
 }
 
 /* Header & Background Section */
-
 #background{
     background-color: rgb(68, 165, 255);
     background-image: url('../img/pattern.png');
@@ -16,4 +16,35 @@ body{
     margin-top: 100px;
     margin-left: 20px;
     height: 80px;
+}
+
+/* Corpo */
+article > h1{
+    margin-left: 10px;
+    font-size: 50px;   
+    padding-top: 15px;
+    margin: 10px; 
+    margin-bottom: 0;
+}
+
+.written-by{
+    color: rgb(146, 137, 137);
+    margin-left: 10px;
+    margin-top: 0px;
+    font-size: 20px;
+    font-weight: 800;
+    /* da aggiungere font */
+}
+
+#booleaner-sign{
+    color: rgb(0, 162, 255);
+    font-size: 25px;
+    font-weight: 800;
+}
+
+section > #data{
+    color: rgb(146, 137, 137);
+    margin-top: 0px;
+    font-size: 15px;
+    font-weight: 800;
 }
