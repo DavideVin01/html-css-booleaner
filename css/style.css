@@ -59,3 +59,13 @@ section > #data{
 figcaption{
     font-size: 12px;
 }
+
+#paragraph{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.highlighted-text{
+    background-color: yellow;
+}
