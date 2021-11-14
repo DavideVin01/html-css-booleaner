@@ -82,7 +82,8 @@ table{
     margin-left: 10px;
     margin-right: 10px;
     table-layout: fixed;
-    width: 100%;
+    width: 1210px;
+    border-collapse: collapse;
 }
 
 th, td{
